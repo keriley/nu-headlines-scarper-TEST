@@ -1,5 +1,97 @@
 [
   {
+    "id": 6230193,
+    "slug": "de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "De Woordle van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2022-10-16T06:29:05+02:00",
+    "updated_at": "2022-10-16T06:29:06+02:00",
+    "media_id": "q90x8w2aq9up",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6230193/de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6228031,
+    "slug": "ambtenaren-toeslagenschandaal-lastig-te-vervolgen-maar-advocaten-laten-niet-los",
+    "type": "article",
+    "title": "Ambtenaren toeslagenschandaal lastig te vervolgen, maar advocaten laten niet los",
+    "subtitle": null,
+    "published_at": "2022-10-16T06:28:17+02:00",
+    "updated_at": "2022-10-16T06:28:18+02:00",
+    "media_id": "4xmxwbmazbet",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6228031/ambtenaren-toeslagenschandaal-lastig-te-vervolgen-maar-advocaten-laten-niet-los.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6229482,
+    "slug": "nucheckt-overheid-beweert-terecht-dat-coronavaccin-virusverspreiding-tegengaat",
+    "type": "article",
+    "title": "NUcheckt: Overheid beweert terecht dat coronavaccin virusverspreiding tegengaat",
+    "subtitle": null,
+    "published_at": "2022-10-16T06:27:18+02:00",
+    "updated_at": "2022-10-16T06:27:18+02:00",
+    "media_id": "k8exg33aysw1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6229482/nucheckt-overheid-beweert-terecht-dat-coronavaccin-virusverspreiding-tegengaat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6229878,
+    "slug": "haaland-breekt-records-bij-city-hij-krijgt-de-status-van-messi-en-ronaldo",
+    "type": "article",
+    "title": "Haaland breekt records bij City: 'Hij krijgt de status van Messi en Ronaldo'",
+    "subtitle": "NU+",
+    "published_at": "2022-10-16T06:26:03+02:00",
+    "updated_at": "2022-10-16T06:26:04+02:00",
+    "media_id": "lx2xrytadszz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779108,
+      "slug": "nu-voetbal",
+      "type": "default",
+      "name": "NU+ Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/nu-voetbal/6229878/haaland-breekt-records-bij-city-hij-krijgt-de-status-van-messi-en-ronaldo.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230004,
     "slug": "deze-drie-dingen-in-de-aankondiging-van-charles-kroning-vallen-op",
     "type": "video",
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6230181/servische-volleybalsters-pakken-in-apeldoorn-tweede-wereldtitel-op-rij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230180,
-    "slug": "spacex-blijft-peperdure-satellietverbinding-oekraine-gewoon-betalen",
-    "type": "article",
-    "title": "SpaceX blijft peperdure satellietverbinding Oekraïne gewoon betalen",
-    "subtitle": null,
-    "published_at": "2022-10-15T21:27:17+02:00",
-    "updated_at": "2022-10-15T21:32:18+02:00",
-    "media_id": "3ctx1d7aheag",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6230180/spacex-blijft-peperdure-satellietverbinding-oekraine-gewoon-betalen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230179,
-    "slug": "woede-om-actie-iraanse-oproerpolitie-vrouw-bij-billen-gepakt",
-    "type": "video",
-    "title": "Woede om actie Iraanse oproerpolitie: vrouw bij billen gepakt",
-    "subtitle": "Video",
-    "published_at": "2022-10-15T21:09:44+02:00",
-    "updated_at": "2022-10-15T21:44:12+02:00",
-    "media_id": "xu1xrigab7yw",
-    "duration": "0:53",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6230179/woede-om-actie-iraanse-oproerpolitie-vrouw-bij-billen-gepakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230178,
-    "slug": "amerikaanse-geheime-dienst-negeerde-gevaar-van-bestorming-capitool",
-    "type": "article",
-    "title": "Amerikaanse geheime dienst negeerde gevaar van bestorming Capitool",
-    "subtitle": null,
-    "published_at": "2022-10-15T20:54:39+02:00",
-    "updated_at": "2022-10-15T21:11:17+02:00",
-    "media_id": "ngtxompaq53f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6230178/amerikaanse-geheime-dienst-negeerde-gevaar-van-bestorming-capitool.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230177,
-    "slug": "go-ahead-doet-heerenveen-in-blessuretijd-pijn-zegereeks-fortuna-ten-einde",
-    "type": "article",
-    "title": "Go Ahead doet Heerenveen in blessuretijd pijn, zegereeks Fortuna ten einde",
-    "subtitle": null,
-    "published_at": "2022-10-15T20:47:50+02:00",
-    "updated_at": "2022-10-15T22:13:10+02:00",
-    "media_id": "0q5x1mea51sc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6230177/go-ahead-doet-heerenveen-in-blessuretijd-pijn-zegereeks-fortuna-ten-einde.html",
     "open_new_window": false,
     "partner": null
   }
