@@ -1,13 +1,36 @@
 [
   {
+    "id": 6230409,
+    "slug": "recensieoverzicht-bob-dylan-mooie-momenten-maar-gebrekkig-optreden",
+    "type": "article",
+    "title": "Recensieoverzicht Bob Dylan: 'Mooie momenten, maar gebrekkig optreden'",
+    "subtitle": null,
+    "published_at": "2022-10-17T13:33:24+02:00",
+    "updated_at": "2022-10-17T13:33:24+02:00",
+    "media_id": "keuxn3uanvdk",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6230409/recensieoverzicht-bob-dylan-mooie-momenten-maar-gebrekkig-optreden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230400,
     "slug": "kersverse-financienminister-vk-kielhaalt-economische-plannen-van-truss",
     "type": "article",
     "title": "Kersverse financiënminister VK kielhaalt economische plannen van Truss",
     "subtitle": null,
     "published_at": "2022-10-17T13:17:50+02:00",
-    "updated_at": "2022-10-17T13:17:51+02:00",
-    "media_id": "buuxp93ar3bs",
+    "updated_at": "2022-10-17T13:22:00+02:00",
+    "media_id": "hrvxj1jadae4",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -52,7 +75,7 @@
     "title": "Royal Antwerp gaat in gesprek met op reservebank rokende Nainggolan",
     "subtitle": null,
     "published_at": "2022-10-17T13:01:30+02:00",
-    "updated_at": "2022-10-17T13:16:30+02:00",
+    "updated_at": "2022-10-17T13:24:16+02:00",
     "media_id": "1a5xt0ga7vr3",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "VK én Truss wachten met spanning op plannen van nieuwe minister van Financiën",
     "subtitle": null,
     "published_at": "2022-10-17T12:45:53+02:00",
-    "updated_at": "2022-10-17T13:01:36+02:00",
+    "updated_at": "2022-10-17T13:27:18+02:00",
     "media_id": "9syx7kla9yb4",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6230338/vereniging-eigen-huis-wil-dat-appartementen-verduurzamen-makkelijker-wordt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230344,
-    "slug": "bekijk-beelden-van-de-aanvallen-met-kamikazedrones-in-kyiv",
-    "type": "video",
-    "title": "Bekijk beelden van de aanvallen met kamikazedrones in Kyiv",
-    "subtitle": "Video",
-    "published_at": "2022-10-17T09:41:48+02:00",
-    "updated_at": "2022-10-17T11:45:39+02:00",
-    "media_id": "zf9xah3ar6aw",
-    "duration": "0:32",
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6230344/bekijk-beelden-van-de-aanvallen-met-kamikazedrones-in-kyiv.html",
     "open_new_window": false,
     "partner": null
   }
