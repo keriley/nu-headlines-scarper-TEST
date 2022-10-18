@@ -1,12 +1,35 @@
 [
   {
+    "id": 6230706,
+    "slug": "landelijke-politie-start-onderzoek-naar-rukkende-trucker-op-a7",
+    "type": "article",
+    "title": "Landelijke politie start onderzoek naar 'rukkende' trucker op A7",
+    "subtitle": null,
+    "published_at": "2022-10-18T18:42:01+02:00",
+    "updated_at": "2022-10-18T19:18:15+02:00",
+    "media_id": "23ax54razasp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6230706/landelijke-politie-start-onderzoek-naar-rukkende-trucker-op-a7.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230705,
     "slug": "jong-oranje-treft-portugal-belgie-en-gastland-georgie-op-ek",
     "type": "article",
     "title": "Jong Oranje treft Portugal, België en gastland Georgië op EK",
     "subtitle": null,
     "published_at": "2022-10-18T18:34:39+02:00",
-    "updated_at": "2022-10-18T18:34:39+02:00",
+    "updated_at": "2022-10-18T19:16:27+02:00",
     "media_id": "c3axmlzaqjlj",
     "duration": null,
     "canonical_section": {
@@ -47,13 +70,13 @@
   },
   {
     "id": 6230703,
-    "slug": "fc-eindhoven-ontvangt-willem-ii-in-eerste-ronde",
+    "slug": "eindhoven-leidt-tegen-willem-ii-heerenveen-start-zonder-noppert",
     "type": "article",
-    "title": "FC Eindhoven ontvangt Willem II in eerste ronde",
+    "title": "Eindhoven leidt tegen Willem II, Heerenveen start zonder Noppert",
     "subtitle": "Liveblog KNVB-beker",
     "published_at": "2022-10-18T18:30:34+02:00",
-    "updated_at": "2022-10-18T18:30:35+02:00",
-    "media_id": "ff7x8rwaqi04",
+    "updated_at": "2022-10-18T19:14:02+02:00",
+    "media_id": "8t9xptka3z3f",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6230703/fc-eindhoven-ontvangt-willem-ii-in-eerste-ronde.html",
+    "url": "/voetbal/6230703/eindhoven-leidt-tegen-willem-ii-heerenveen-start-zonder-noppert.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "Mallorca-zaak nadert climax: Wat viel onze verslaggever op?",
     "subtitle": null,
     "published_at": "2022-10-18T17:28:14+02:00",
-    "updated_at": "2022-10-18T17:28:15+02:00",
+    "updated_at": "2022-10-18T19:12:03+02:00",
     "media_id": "t9qxb5tacxmt",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/coronavirus/6230673/aantal-coronagevallen-daalt-licht-niet-zeker-of-top-van-najaarsgolf-is-bereikt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230664,
-    "slug": "chauffeur-ontslagen-omdat-hij-masturberend-uit-raam-van-rijdende-truck-hing",
-    "type": "article",
-    "title": "Chauffeur ontslagen omdat hij 'masturberend' uit raam van rijdende truck hing",
-    "subtitle": null,
-    "published_at": "2022-10-18T16:36:49+02:00",
-    "updated_at": "2022-10-18T18:40:47+02:00",
-    "media_id": "23ax54razasp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6230664/chauffeur-ontslagen-omdat-hij-masturberend-uit-raam-van-rijdende-truck-hing.html",
     "open_new_window": false,
     "partner": null
   }
