@@ -1,5 +1,51 @@
 [
   {
+    "id": 6232467,
+    "slug": "joris-peters-over-het-geheim-van-mallorca-het-is-onze-journalistieke-taak",
+    "type": "article",
+    "title": "Joris Peters over Het geheim van Mallorca: 'Het is onze journalistieke taak'",
+    "subtitle": null,
+    "published_at": "2022-10-27T17:35:41+02:00",
+    "updated_at": "2022-10-27T17:35:42+02:00",
+    "media_id": "507xd52ax8dx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1774275,
+      "slug": "over-nu",
+      "type": "default",
+      "name": "Over NU.nl",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/over-nu/6232467/joris-peters-over-het-geheim-van-mallorca-het-is-onze-journalistieke-taak.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232560,
+    "slug": "rechter-bepaalt-op-13-december-of-radiostations-hun-frequentie-behouden",
+    "type": "article",
+    "title": "Rechter bepaalt op 13 december of radiostations hun frequentie behouden",
+    "subtitle": null,
+    "published_at": "2022-10-27T17:32:09+02:00",
+    "updated_at": "2022-10-27T17:32:10+02:00",
+    "media_id": "etxxk9sasysl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6232560/rechter-bepaalt-op-13-december-of-radiostations-hun-frequentie-behouden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232556,
     "slug": "helikopter-filmt-puinhoop-na-instorten-brug-in-aanbouw-in-vs",
     "type": "video",
@@ -75,7 +121,7 @@
     "title": "Musea vrezen voor verdere acties na besmeuren kunstwerk Johannes Vermeer",
     "subtitle": null,
     "published_at": "2022-10-27T16:51:59+02:00",
-    "updated_at": "2022-10-27T16:52:00+02:00",
+    "updated_at": "2022-10-27T17:29:56+02:00",
     "media_id": "v98xkczaggyl",
     "duration": null,
     "canonical_section": {
@@ -167,7 +213,7 @@
     "title": "Tour de France-baas Prudhomme erkent: 'Het is een ronde voor klimmers'",
     "subtitle": null,
     "published_at": "2022-10-27T15:41:08+02:00",
-    "updated_at": "2022-10-27T15:41:09+02:00",
+    "updated_at": "2022-10-27T17:37:11+02:00",
     "media_id": "s1rxmkcarhu6",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Drie arrestaties na vandalisme in Mauritshuis, Meisje met de parel niet beschadigd",
     "subtitle": null,
     "published_at": "2022-10-27T14:59:51+02:00",
-    "updated_at": "2022-10-27T17:03:03+02:00",
+    "updated_at": "2022-10-27T17:37:45+02:00",
     "media_id": "u16x16cafphn",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6232517/ecb-verhoogt-rente-voor-de-derde-keer-in-korte-tijd-in-strijd-tegen-inflatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232440,
-    "slug": "famke-louise-geemotioneerd-in-zaak-tegen-roddelpraat-heeft-kraamtijd-verpest",
-    "type": "article",
-    "title": "Famke Louise geëmotioneerd in zaak tegen Roddelpraat: 'Heeft kraamtijd verpest'",
-    "subtitle": null,
-    "published_at": "2022-10-27T14:04:37+02:00",
-    "updated_at": "2022-10-27T14:08:53+02:00",
-    "media_id": "zmixz16apemp",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6232440/famke-louise-geemotioneerd-in-zaak-tegen-roddelpraat-heeft-kraamtijd-verpest.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232495,
-    "slug": "aarde-op-koers-voor-ongeveer-25-graden-opwarming-slecht-of-goed-nieuws",
-    "type": "article",
-    "title": "Aarde op koers voor ongeveer 2,5 graden opwarming: slecht of goed nieuws?",
-    "subtitle": null,
-    "published_at": "2022-10-27T13:47:13+02:00",
-    "updated_at": "2022-10-27T15:16:49+02:00",
-    "media_id": "yicximoa5jbj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6232495/aarde-op-koers-voor-ongeveer-25-graden-opwarming-slecht-of-goed-nieuws.html",
     "open_new_window": false,
     "partner": null
   }
