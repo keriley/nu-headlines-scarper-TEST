@@ -1,5 +1,28 @@
 [
   {
+    "id": 6234275,
+    "slug": "fietser-filmt-achtervolging-van-wolf-op-park-de-hoge-veluwe",
+    "type": "video",
+    "title": "Fietser filmt achtervolging van wolf op Park de Hoge Veluwe",
+    "subtitle": "Video",
+    "published_at": "2022-11-05T11:15:58+01:00",
+    "updated_at": "2022-11-05T11:15:59+01:00",
+    "media_id": "nv5xtfvaf848",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6234275/fietser-filmt-achtervolging-van-wolf-op-park-de-hoge-veluwe.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234269,
     "slug": "filmende-fietser-achtervolgd-door-wolf-op-de-hoge-veluwe",
     "type": "article",
@@ -282,7 +305,7 @@
     "title": "Geen pandemie meer, nog wel een volledig vuurwerkverbod in twaalf gemeenten",
     "subtitle": null,
     "published_at": "2022-11-05T05:55:05+01:00",
-    "updated_at": "2022-11-05T10:04:38+01:00",
+    "updated_at": "2022-11-05T11:27:30+01:00",
     "media_id": "78cx9kbazp1z",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6234232/jarenlange-celstraffen-voor-nederlanders-wegens-serie-plofkraken-in-duitsland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234231,
-    "slug": "gevangene-raakt-gewond-bij-brand-in-pi-vught-vuur-inmiddels-gedoofd",
-    "type": "article",
-    "title": "Gevangene raakt gewond bij brand in PI Vught, vuur inmiddels gedoofd",
-    "subtitle": null,
-    "published_at": "2022-11-05T02:42:12+01:00",
-    "updated_at": "2022-11-05T07:54:24+01:00",
-    "media_id": "2gmxbyta3hu4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6234231/gevangene-raakt-gewond-bij-brand-in-pi-vught-vuur-inmiddels-gedoofd.html",
     "open_new_window": false,
     "partner": null
   }
