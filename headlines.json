@@ -1,5 +1,28 @@
 [
   {
+    "id": 6237306,
+    "slug": "new-york-getroffen-door-sneeuwstorm",
+    "type": "video",
+    "title": "New York getroffen door sneeuwstorm",
+    "subtitle": "Video",
+    "published_at": "2022-11-20T09:43:29+01:00",
+    "updated_at": "2022-11-20T09:43:30+01:00",
+    "media_id": "400xvgmal0zm",
+    "duration": "0:30",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6237306/new-york-getroffen-door-sneeuwstorm.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237230,
     "slug": "bekijk-hier-de-startopstelling-van-de-gp-van-abu-dhabi-met-verstappen-op-pole",
     "type": "article",
@@ -305,7 +328,7 @@
     "title": "Historische deal over klimaatschadefonds, maar concrete afspraken blijven uit",
     "subtitle": null,
     "published_at": "2022-11-20T06:06:29+01:00",
-    "updated_at": "2022-11-20T09:22:18+01:00",
+    "updated_at": "2022-11-20T09:46:37+01:00",
     "media_id": "n7pxcc9apo00",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6236491/fadi-vluchtte-om-zijn-homoseksualiteit-uit-qatar-politie-wilde-me-in-de-val-lokken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237267,
-    "slug": "waarom-we-niet-exact-weten-of-er-6500-doden-vielen-bij-wk-bouw",
-    "type": "video",
-    "title": "Waarom we niet exact weten of er 6.500 doden vielen bij WK-bouw",
-    "subtitle": "Video",
-    "published_at": "2022-11-20T04:57:01+01:00",
-    "updated_at": "2022-11-20T09:29:36+01:00",
-    "media_id": "8oxxayfa81fl",
-    "duration": "2:27",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6237267/waarom-we-niet-exact-weten-of-er-6500-doden-vielen-bij-wk-bouw.html",
     "open_new_window": false,
     "partner": null
   }
