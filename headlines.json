@@ -1,5 +1,28 @@
 [
   {
+    "id": 6240254,
+    "slug": "grote-branden-verwoesten-gebouwen-in-nijmegen-en-eindhoven",
+    "type": "video",
+    "title": "Grote branden verwoesten gebouwen in Nijmegen en Eindhoven",
+    "subtitle": "Video",
+    "published_at": "2022-12-05T09:34:36+01:00",
+    "updated_at": "2022-12-05T09:34:37+01:00",
+    "media_id": "8uqx4arawhy2",
+    "duration": "0:58",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6240254/grote-branden-verwoesten-gebouwen-in-nijmegen-en-eindhoven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240247,
     "slug": "eu-landen-verbruikten-ook-in-november-een-kwart-minder-gas",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6240226/weerbericht-sint-moet-uitkijken-dat-hij-in-zuid-limburg-niet-van-dak-glijdt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239924,
-    "slug": "steeds-meer-mensen-met-psychische-aandoeningen-en-de-ggz-staat-al-onder-druk",
-    "type": "article",
-    "title": "Steeds meer mensen met psychische aandoeningen en de ggz staat al onder druk",
-    "subtitle": null,
-    "published_at": "2022-12-05T04:57:05+01:00",
-    "updated_at": "2022-12-05T06:57:54+01:00",
-    "media_id": "d1fx3fxat9j9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6239924/steeds-meer-mensen-met-psychische-aandoeningen-en-de-ggz-staat-al-onder-druk.html",
     "open_new_window": false,
     "partner": null
   }
