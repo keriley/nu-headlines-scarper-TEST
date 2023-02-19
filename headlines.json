@@ -1,12 +1,81 @@
 [
   {
+    "id": 6251951,
+    "slug": "dit-vinden-jullie-van-de-kritiek-op-de-miljardenwinsten-van-grote-bedrijven",
+    "type": "article",
+    "title": "Dit vinden jullie van de kritiek op de miljardenwinsten van grote bedrijven",
+    "subtitle": null,
+    "published_at": "2023-02-19T13:05:40+01:00",
+    "updated_at": "2023-02-19T13:05:41+01:00",
+    "media_id": "aacxqumavbxw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6251951/dit-vinden-jullie-van-de-kritiek-op-de-miljardenwinsten-van-grote-bedrijven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6251964,
+    "slug": "israelische-raketaanval-op-syrie-we-dachten-dat-het-een-aardbeving-was",
+    "type": "video",
+    "title": "Israëlische raketaanval op Syrië: 'We dachten dat het een aardbeving was'",
+    "subtitle": "Video",
+    "published_at": "2023-02-19T12:55:05+01:00",
+    "updated_at": "2023-02-19T12:55:06+01:00",
+    "media_id": "lpsx90katofz",
+    "duration": "0:59",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6251964/israelische-raketaanval-op-syrie-we-dachten-dat-het-een-aardbeving-was.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6251962,
+    "slug": "boef-blijft-lil-kleine-steunen-en-is-kritisch-op-cancelcultuur",
+    "type": "article",
+    "title": "Boef blijft Lil Kleine steunen en is kritisch op cancelcultuur",
+    "subtitle": null,
+    "published_at": "2023-02-19T12:50:04+01:00",
+    "updated_at": "2023-02-19T13:10:04+01:00",
+    "media_id": "gu7xnjhan26c",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778994,
+      "slug": "media-en-cultuur",
+      "type": "default",
+      "name": "Entertainment",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media-en-cultuur/6251962/boef-blijft-lil-kleine-steunen-en-is-kritisch-op-cancelcultuur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251961,
     "slug": "linda-de-mol-met-ex-gezien-in-parijs-ik-ben-niemand-een-verklaring-schuldig",
     "type": "article",
     "title": "Linda de Mol met ex gezien in Parijs: 'Ik ben niemand een verklaring schuldig'",
     "subtitle": null,
     "published_at": "2023-02-19T12:38:30+01:00",
-    "updated_at": "2023-02-19T12:38:34+01:00",
+    "updated_at": "2023-02-19T12:51:08+01:00",
     "media_id": "sckxtpnagzff",
     "duration": null,
     "canonical_section": {
@@ -52,7 +121,7 @@
     "title": "Mané na drie maanden terug op groepstraining Bayern: 'Geeft fantastisch gevoel'",
     "subtitle": null,
     "published_at": "2023-02-19T12:11:46+01:00",
-    "updated_at": "2023-02-19T12:21:42+01:00",
+    "updated_at": "2023-02-19T12:47:43+01:00",
     "media_id": "kowxxpgaft7u",
     "duration": null,
     "canonical_section": {
@@ -93,13 +162,13 @@
   },
   {
     "id": 6251954,
-    "slug": "heerenveen-brengt-evenwicht-terug-in-friese-derby",
+    "slug": "cambuur-en-heerenveen-halverwege-in-evenwicht",
     "type": "article",
-    "title": "Heerenveen brengt evenwicht terug in Friese derby",
+    "title": "Cambuur en Heerenveen halverwege in evenwicht",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-02-19T11:49:03+01:00",
-    "updated_at": "2023-02-19T12:39:23+01:00",
-    "media_id": "8nhxxl4akgu3",
+    "updated_at": "2023-02-19T13:02:48+01:00",
+    "media_id": "4qfxj0haeg3f",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -110,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6251954/heerenveen-brengt-evenwicht-terug-in-friese-derby.html",
+    "url": "/voetbal/6251954/cambuur-en-heerenveen-halverwege-in-evenwicht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +282,7 @@
     "title": "Bayern-coach Nagelsmann biedt arbiter excuses aan voor tirade na nederlaag",
     "subtitle": null,
     "published_at": "2023-02-19T09:19:03+01:00",
-    "updated_at": "2023-02-19T10:21:28+01:00",
+    "updated_at": "2023-02-19T13:01:55+01:00",
     "media_id": "xyox82pa15to",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6251936/weerbericht-eerst-nog-wat-regen-in-de-middag-droog-en-af-en-toe-zon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251935,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-02-19T05:16:45+01:00",
-    "updated_at": "2023-02-19T05:16:46+01:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6251935/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251605,
-    "slug": "greys-anatomy-moet-het-doen-zonder-meredith-blijven-de-fans-kijken",
-    "type": "article",
-    "title": "Grey's Anatomy moet het doen zonder Meredith, blijven de fans kijken?",
-    "subtitle": "NU+",
-    "published_at": "2023-02-19T05:07:22+01:00",
-    "updated_at": "2023-02-19T12:12:44+01:00",
-    "media_id": "dfyxq9lad145",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6251605/greys-anatomy-moet-het-doen-zonder-meredith-blijven-de-fans-kijken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251753,
-    "slug": "van-bommelding-tot-federers-feestje-drie-momenten-uit-50-jaar-abn-amro-open",
-    "type": "article",
-    "title": "Van bommelding tot Federers feestje: drie momenten uit 50 jaar ABN AMRO Open",
-    "subtitle": null,
-    "published_at": "2023-02-19T05:05:06+01:00",
-    "updated_at": "2023-02-19T08:09:10+01:00",
-    "media_id": "zgdx8dfa5s7c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6251753/van-bommelding-tot-federers-feestje-drie-momenten-uit-50-jaar-abn-amro-open.html",
     "open_new_window": false,
     "partner": null
   }
