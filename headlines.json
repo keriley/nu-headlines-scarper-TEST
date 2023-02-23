@@ -1,12 +1,35 @@
 [
   {
+    "id": 6252639,
+    "slug": "verstappen-blikt-tevreden-terug-op-vlekkeloze-eerste-testdag-in-bahrein",
+    "type": "article",
+    "title": "Verstappen blikt tevreden terug op 'vlekkeloze' eerste testdag in Bahrein",
+    "subtitle": null,
+    "published_at": "2023-02-23T18:14:19+01:00",
+    "updated_at": "2023-02-23T18:14:21+01:00",
+    "media_id": "9dqxnupat1mz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6252639/verstappen-blikt-tevreden-terug-op-vlekkeloze-eerste-testdag-in-bahrein.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252637,
     "slug": "ook-etos-komt-met-loonsverhoging-na-periode-van-stakingen",
     "type": "article",
     "title": "Ook Etos komt met loonsverhoging na periode van stakingen",
     "subtitle": null,
     "published_at": "2023-02-23T18:09:24+01:00",
-    "updated_at": "2023-02-23T18:09:26+01:00",
+    "updated_at": "2023-02-23T18:21:58+01:00",
     "media_id": "85ex638adcat",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Van Nistelrooij passeert Teze bij jacht PSV op comeback tegen Sevilla",
     "subtitle": null,
     "published_at": "2023-02-23T17:34:16+01:00",
-    "updated_at": "2023-02-23T17:48:02+01:00",
+    "updated_at": "2023-02-23T18:12:40+01:00",
     "media_id": "3wsxj7xazj93",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6252530/recensieoverzicht-cocaine-bear-krankzinnig-uitgangspunt-doorsnee-uitwerking.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252605,
-    "slug": "eerste-sterrenstelsels-vormden-zich-mogelijk-vrijwel-direct-na-de-oerknal",
-    "type": "article",
-    "title": "Eerste sterrenstelsels vormden zich mogelijk vrijwel direct na de oerknal",
-    "subtitle": null,
-    "published_at": "2023-02-23T15:31:55+01:00",
-    "updated_at": "2023-02-23T15:43:00+01:00",
-    "media_id": "1pfxol0acu6o",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6252605/eerste-sterrenstelsels-vormden-zich-mogelijk-vrijwel-direct-na-de-oerknal.html",
     "open_new_window": false,
     "partner": null
   }
