@@ -1,5 +1,28 @@
 [
   {
+    "id": 6255255,
+    "slug": "rijimpressie-lexus-rz",
+    "type": "video",
+    "title": "Rijimpressie: Lexus RZ",
+    "subtitle": "Video",
+    "published_at": "2023-03-14T15:14:22+01:00",
+    "updated_at": "2023-03-14T15:14:23+01:00",
+    "media_id": "zihxulhako2m",
+    "duration": "8:11",
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6255255/rijimpressie-lexus-rz.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255252,
     "slug": "bitcoinkoers-stijgt-naar-het-hoogste-punt-in-negen-maanden",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Jeroen Rietbergen en Ali B vervolgd in Voice-schandaal, Marco Borsato vrijuit",
     "subtitle": null,
     "published_at": "2023-03-14T15:04:00+01:00",
-    "updated_at": "2023-03-14T15:07:42+01:00",
+    "updated_at": "2023-03-14T15:19:53+01:00",
     "media_id": "tyoxfjha5fl8",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Personeel streekvervoer stopt na woensdag tijdelijk met staken",
     "subtitle": null,
     "published_at": "2023-03-14T14:59:40+01:00",
-    "updated_at": "2023-03-14T14:59:42+01:00",
+    "updated_at": "2023-03-14T15:23:39+01:00",
     "media_id": "l5rxd0map8xk",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Schiphol moet van inspectie minder dieselvoertuigen gebruiken",
     "subtitle": null,
     "published_at": "2023-03-14T12:23:16+01:00",
-    "updated_at": "2023-03-14T12:23:17+01:00",
+    "updated_at": "2023-03-14T15:24:55+01:00",
     "media_id": "d1oxjkua85ku",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6255224/schiphol-moet-van-inspectie-minder-dieselvoertuigen-gebruiken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254770,
-    "slug": "vs-botst-met-china-en-het-veldhovense-asml-is-daar-het-slachtoffer-van",
-    "type": "article",
-    "title": "VS botst met China en het Veldhovense ASML is daar het slachtoffer van",
-    "subtitle": null,
-    "published_at": "2023-03-14T12:04:09+01:00",
-    "updated_at": "2023-03-14T15:05:07+01:00",
-    "media_id": "m3qx8xsaa984",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6254770/vs-botst-met-china-en-het-veldhovense-asml-is-daar-het-slachtoffer-van.html",
     "open_new_window": false,
     "partner": null
   }
