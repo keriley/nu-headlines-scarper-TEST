@@ -1,12 +1,35 @@
 [
   {
+    "id": 6257756,
+    "slug": "mentale-gezondheid-hoe-ga-jij-hiermee-om-praat-mee",
+    "type": "article",
+    "title": "Mentale gezondheid: hoe ga jij hiermee om? Praat mee",
+    "subtitle": null,
+    "published_at": "2023-04-01T12:06:12+02:00",
+    "updated_at": "2023-04-01T12:06:13+02:00",
+    "media_id": "tc9xw02a95sh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6257756/mentale-gezondheid-hoe-ga-jij-hiermee-om-praat-mee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257763,
     "slug": "ioc-kritisch-oekraine-schaadt-eigen-sporters-door-ze-aan-de-kant-te-houden",
     "type": "article",
     "title": "IOC kritisch: 'Oekraïne schaadt eigen sporters door ze aan de kant te houden'",
     "subtitle": null,
     "published_at": "2023-04-01T11:58:33+02:00",
-    "updated_at": "2023-04-01T11:58:34+02:00",
+    "updated_at": "2023-04-01T12:25:24+02:00",
     "media_id": "ojwxj96acows",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Ricciardo is nog altijd geliefd, maar ook klaar om terug te keren?",
     "subtitle": "NU+",
     "published_at": "2023-04-01T06:26:05+02:00",
-    "updated_at": "2023-04-01T08:03:52+02:00",
+    "updated_at": "2023-04-01T12:20:37+02:00",
     "media_id": "c97xtuaa60d2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6257721/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257704,
-    "slug": "van-oude-naar-nieuwe-situatie-zo-wordt-je-statiegeldblikje-verwerkt",
-    "type": "video",
-    "title": "Van oude, naar nieuwe situatie: zo wordt je statiegeldblikje verwerkt",
-    "subtitle": "Explainer",
-    "published_at": "2023-04-01T05:17:27+02:00",
-    "updated_at": "2023-04-01T05:19:12+02:00",
-    "media_id": "vevxo3jaude4",
-    "duration": "2:21",
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6257704/van-oude-naar-nieuwe-situatie-zo-wordt-je-statiegeldblikje-verwerkt.html",
     "open_new_window": false,
     "partner": null
   }
