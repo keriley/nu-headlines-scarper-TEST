@@ -1,12 +1,35 @@
 [
   {
+    "id": 6260729,
+    "slug": "van-nistelrooij-voorzichtig-richting-finale-we-weten-dat-ajax-gaat-reageren",
+    "type": "article",
+    "title": "Van Nistelrooij voorzichtig richting finale: 'We weten dat Ajax gaat reageren'",
+    "subtitle": null,
+    "published_at": "2023-04-24T06:30:31+02:00",
+    "updated_at": "2023-04-24T06:30:33+02:00",
+    "media_id": "3l2xrz7asvlo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6260729/van-nistelrooij-voorzichtig-richting-finale-we-weten-dat-ajax-gaat-reageren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260735,
     "slug": "ruim-twintig-mensen-moeten-hun-huis-verlaten-na-explosie-in-portiek-rotterdam",
     "type": "article",
     "title": "Ruim twintig mensen moeten hun huis verlaten na explosie in portiek Rotterdam",
     "subtitle": null,
     "published_at": "2023-04-24T06:25:26+02:00",
-    "updated_at": "2023-04-24T06:25:27+02:00",
+    "updated_at": "2023-04-24T06:31:28+02:00",
     "media_id": "d3bxlfqaq9vn",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "David Kushner liet fans wachten op nieuw lied en heeft daardoor nu een hit",
     "subtitle": "NU+",
     "published_at": "2023-04-24T05:14:31+02:00",
-    "updated_at": "2023-04-24T05:14:32+02:00",
+    "updated_at": "2023-04-24T06:35:38+02:00",
     "media_id": "jtgxrdbazljw",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6260716/brugge-naar-play-offs-om-titel-na-7-0-en-goal-lang-becker-matchwinner-bij-union.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260714,
-    "slug": "manchester-united-van-ten-hag-bereikt-via-penaltys-fa-cup-finale-en-treft-city",
-    "type": "article",
-    "title": "Manchester United van Ten Hag bereikt via penalty's FA Cup-finale en treft City",
-    "subtitle": null,
-    "published_at": "2023-04-23T20:21:28+02:00",
-    "updated_at": "2023-04-23T21:11:21+02:00",
-    "media_id": "iv1xt6aaq6jr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260714/manchester-united-van-ten-hag-bereikt-via-penaltys-fa-cup-finale-en-treft-city.html",
     "open_new_window": false,
     "partner": null
   }
