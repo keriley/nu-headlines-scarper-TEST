@@ -1,5 +1,28 @@
 [
   {
+    "id": 6264574,
+    "slug": "medvedev-wint-in-rome-ten-koste-van-rune-eerste-graveltoernooi-uit-carriere",
+    "type": "article",
+    "title": "Medvedev wint in Rome ten koste van Rune eerste graveltoernooi uit carrière",
+    "subtitle": null,
+    "published_at": "2023-05-21T19:24:55+02:00",
+    "updated_at": "2023-05-21T19:24:56+02:00",
+    "media_id": "k4pxjmoacf6s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6264574/medvedev-wint-in-rome-ten-koste-van-rune-eerste-graveltoernooi-uit-carriere.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264573,
     "slug": "kersverse-kampioen-manchester-city-neemt-met-zege-op-chelsea-beker-in-ontvangst",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/gezondheid/6264082/studenten-hoeven-minder-punten-te-halen-ontspannen-ook-belangrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264545,
-    "slug": "code-geel-in-deel-van-het-land-kans-op-zware-onweersbuien",
-    "type": "article",
-    "title": "Code geel in deel van het land, kans op zware onweersbuien",
-    "subtitle": null,
-    "published_at": "2023-05-21T13:53:21+02:00",
-    "updated_at": "2023-05-21T14:32:00+02:00",
-    "media_id": "2x5xq9fagzr1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6264545/code-geel-in-deel-van-het-land-kans-op-zware-onweersbuien.html",
     "open_new_window": false,
     "partner": null
   }
