@@ -1,5 +1,28 @@
 [
   {
+    "id": 6264596,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-05-22T05:16:32+02:00",
+    "updated_at": "2023-05-22T05:16:33+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6264596/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264384,
     "slug": "eerste-zitting-tegen-moordverdachte-zwijndrecht-die-weken-spoorloos-was",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6264349,
-    "slug": "huizenprijzen-zijn-in-april-opnieuw-gedaald",
+    "slug": "huizenprijzen-daalden-in-april-voor-derde-maand-op-rij",
     "type": "article",
-    "title": "Huizenprijzen zijn in april opnieuw gedaald",
+    "title": "Huizenprijzen daalden in april voor derde maand op rij",
     "subtitle": null,
     "published_at": "2023-05-22T00:01:07+02:00",
-    "updated_at": "2023-05-22T00:01:08+02:00",
+    "updated_at": "2023-05-22T05:22:30+02:00",
     "media_id": "q5rxb0xahdlb",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6264349/huizenprijzen-zijn-in-april-opnieuw-gedaald.html",
+    "url": "/economie/6264349/huizenprijzen-daalden-in-april-voor-derde-maand-op-rij.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6264573/kampioen-city-neemt-na-zege-op-chelsea-en-veldbestorming-beker-in-ontvangst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264569,
-    "slug": "zelensky-op-g7-top-onze-mannen-zijn-nog-steeds-in-bakhmut",
-    "type": "video",
-    "title": "Zelensky op G7-top: 'Onze mannen zijn nog steeds in Bakhmut'",
-    "subtitle": "Video",
-    "published_at": "2023-05-21T17:50:18+02:00",
-    "updated_at": "2023-05-21T18:16:36+02:00",
-    "media_id": "jerx6orai1u1",
-    "duration": "1:30",
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6264569/zelensky-op-g7-top-onze-mannen-zijn-nog-steeds-in-bakhmut.html",
     "open_new_window": false,
     "partner": null
   }
