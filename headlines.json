@@ -1,5 +1,28 @@
 [
   {
+    "id": 6265262,
+    "slug": "krajicek-haalt-titelverdediger-medvedev-naar-rotterdam-hij-is-dol-op-nederland",
+    "type": "article",
+    "title": "Krajicek haalt titelverdediger Medvedev naar Rotterdam: 'Hij is dol op Nederland'",
+    "subtitle": null,
+    "published_at": "2023-05-26T10:43:21+02:00",
+    "updated_at": "2023-05-26T10:46:36+02:00",
+    "media_id": "6cqxybcaa29p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6265262/krajicek-haalt-titelverdediger-medvedev-naar-rotterdam-hij-is-dol-op-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265267,
     "slug": "oekraine-deelt-beelden-van-droneaanval-op-russisch-schip",
     "type": "video",
@@ -75,7 +98,7 @@
     "title": "Verkoop van gevaarlijke spullen uit Aziatische webshops aan banden gelegd",
     "subtitle": null,
     "published_at": "2023-05-26T10:13:24+02:00",
-    "updated_at": "2023-05-26T10:40:32+02:00",
+    "updated_at": "2023-05-26T10:42:37+02:00",
     "media_id": "a2rxzx7akmp7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6265219/mercedes-rijdt-weer-met-sidepods-zo-zien-ze-eruit-en-zo-werken-ze.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265223,
-    "slug": "van-gerwen-vindt-pl-record-niet-speciaal-ze-maken-er-een-ding-van",
-    "type": "article",
-    "title": "Van Gerwen vindt PL-record niet speciaal: 'Ze maken er een ding van'",
-    "subtitle": "NU+",
-    "published_at": "2023-05-26T06:29:08+02:00",
-    "updated_at": "2023-05-26T10:29:21+02:00",
-    "media_id": "u8tx8tna6cp4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6265223/van-gerwen-vindt-pl-record-niet-speciaal-ze-maken-er-een-ding-van.html",
     "open_new_window": false,
     "partner": null
   }
