@@ -1,12 +1,35 @@
 [
   {
+    "id": 6265651,
+    "slug": "aanhangers-erdogan-vieren-feest-in-grote-nederlandse-steden",
+    "type": "video",
+    "title": "Aanhangers Erdogan vieren feest in grote Nederlandse steden",
+    "subtitle": "Video",
+    "published_at": "2023-05-29T08:29:30+02:00",
+    "updated_at": "2023-05-29T08:29:36+02:00",
+    "media_id": "g9ox5jbaxu85",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6265651/aanhangers-erdogan-vieren-feest-in-grote-nederlandse-steden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265649,
     "slug": "mogelijk-in-spanbroek-ontvoerde-man-liep-op-sokken-politie-deelt-nieuwe-foto",
     "type": "article",
     "title": "Mogelijk in Spanbroek ontvoerde man liep op sokken, politie deelt nieuwe foto",
     "subtitle": null,
     "published_at": "2023-05-29T08:04:34+02:00",
-    "updated_at": "2023-05-29T08:19:42+02:00",
+    "updated_at": "2023-05-29T08:23:28+02:00",
     "media_id": "x6fx0bgavhxs",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6265636,
-    "slug": "turkse-nederlanders-vieren-feest-na-winst-erdogan",
+    "slug": "turkse-nederlanders-vieren-verkiezingswinst-erdogan",
     "type": "article",
-    "title": "Turkse Nederlanders vieren feest na winst Erdogan",
+    "title": "Turkse Nederlanders vieren verkiezingswinst Erdogan",
     "subtitle": "In beeld",
     "published_at": "2023-05-29T06:33:55+02:00",
-    "updated_at": "2023-05-29T08:17:01+02:00",
+    "updated_at": "2023-05-29T08:29:26+02:00",
     "media_id": "1qyx5gva28vr",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6265636/turkse-nederlanders-vieren-feest-na-winst-erdogan.html",
+    "url": "/binnenland/6265636/turkse-nederlanders-vieren-verkiezingswinst-erdogan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "Van de Zandschulp wil met 'immens ervaren' Groeneveld de wereldtop bestormen",
     "subtitle": null,
     "published_at": "2023-05-29T05:08:17+02:00",
-    "updated_at": "2023-05-29T05:08:18+02:00",
+    "updated_at": "2023-05-29T08:24:29+02:00",
     "media_id": "mn5x732ajjhx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6265630/horner-vreesde-voor-start-nog-voor-zege-verstappen-maar-max-was-heel-goed.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265629,
-    "slug": "indy-500-ontsnapt-aan-ramp-rondvliegende-band-scheert-langs-publiek",
-    "type": "video",
-    "title": "Indy 500 ontsnapt aan ramp: rondvliegende band scheert langs publiek",
-    "subtitle": "Video",
-    "published_at": "2023-05-28T21:57:48+02:00",
-    "updated_at": "2023-05-28T21:57:49+02:00",
-    "media_id": "55yxpanaerxe",
-    "duration": "2:43",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6265629/indy-500-ontsnapt-aan-ramp-rondvliegende-band-scheert-langs-publiek.html",
     "open_new_window": false,
     "partner": null
   }
