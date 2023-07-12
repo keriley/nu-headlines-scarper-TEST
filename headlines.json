@@ -1,5 +1,51 @@
 [
   {
+    "id": 6271138,
+    "slug": "zo-gezond-is-vette-vis-sommige-vissoorten-bevatten-erg-veel-zout",
+    "type": "article",
+    "title": "Zo gezond is (vette) vis: 'Sommige vissoorten bevatten erg veel zout'",
+    "subtitle": null,
+    "published_at": "2023-07-12T17:14:00+02:00",
+    "updated_at": "2023-07-12T17:14:50+02:00",
+    "media_id": "clxxm5uaau9l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772477,
+      "slug": "eten-en-drinken",
+      "type": "default",
+      "name": "Eten en drinken",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/eten-en-drinken/6271138/zo-gezond-is-vette-vis-sommige-vissoorten-bevatten-erg-veel-zout.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272064,
+    "slug": "zo-wil-de-f1-regenraces-veiliger-maken",
+    "type": "video",
+    "title": "Zo wil de F1 regenraces veiliger maken",
+    "subtitle": "Explainer",
+    "published_at": "2023-07-12T17:12:31+02:00",
+    "updated_at": "2023-07-12T17:12:34+02:00",
+    "media_id": "poexwuxarbxf",
+    "duration": "1:28",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6272064/zo-wil-de-f1-regenraces-veiliger-maken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272102,
     "slug": "natuurbrand-in-vs-verwoest-gebouwen-en-autos",
     "type": "video",
@@ -167,7 +213,7 @@
     "title": "Mensen op internet trekken beelden van Bee Movie over om film te kopiëren",
     "subtitle": null,
     "published_at": "2023-07-12T16:39:03+02:00",
-    "updated_at": "2023-07-12T16:39:05+02:00",
+    "updated_at": "2023-07-12T17:12:27+02:00",
     "media_id": "nvbx9utarh50",
     "duration": null,
     "canonical_section": {
@@ -323,12 +369,12 @@
   },
   {
     "id": 6272072,
-    "slug": "oekraine-nog-niet-bij-navo-maar-zelensky-wel-blij-met-veiligheidsgaranties",
+    "slug": "oekraine-nog-niet-bij-navo-maar-zelensky-is-wel-blij-met-veiligheidsgaranties",
     "type": "article",
-    "title": "Oekraïne (nog) niet bij NAVO, maar Zelensky wel blij met veiligheidsgaranties",
+    "title": "Oekraïne (nog) niet bij NAVO, maar Zelensky is wel blij met veiligheidsgaranties",
     "subtitle": null,
     "published_at": "2023-07-12T14:53:32+02:00",
-    "updated_at": "2023-07-12T15:18:03+02:00",
+    "updated_at": "2023-07-12T17:21:22+02:00",
     "media_id": "f7axqyvapmfg",
     "duration": null,
     "canonical_section": {
@@ -340,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6272072/oekraine-nog-niet-bij-navo-maar-zelensky-wel-blij-met-veiligheidsgaranties.html",
+    "url": "/spanningen-oekraine/6272072/oekraine-nog-niet-bij-navo-maar-zelensky-is-wel-blij-met-veiligheidsgaranties.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6272070/voormalig-rijkste-persoon-van-azie-verloor-30-miljard-dollar-na-een-toespraak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272054,
-    "slug": "nieuwe-cda-leider-blijft-in-kamer-en-moet-humor-en-lef-hebben",
-    "type": "article",
-    "title": "Nieuwe CDA-leider blijft in Kamer en moet humor en lef hebben",
-    "subtitle": null,
-    "published_at": "2023-07-12T14:02:09+02:00",
-    "updated_at": "2023-07-12T16:23:32+02:00",
-    "media_id": "plnxvfgawqze",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779274,
-      "slug": "val-kabinet",
-      "type": "default",
-      "name": "Val kabinet en vertrek Rutte",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/val-kabinet/6272054/nieuwe-cda-leider-blijft-in-kamer-en-moet-humor-en-lef-hebben.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272067,
-    "slug": "fc-barcelona-legt-miljoenen-neer-voor-braziliaans-toptalent-vitor-roque",
-    "type": "article",
-    "title": "FC Barcelona legt miljoenen neer voor Braziliaans toptalent Vitor Roque",
-    "subtitle": null,
-    "published_at": "2023-07-12T13:54:43+02:00",
-    "updated_at": "2023-07-12T14:12:18+02:00",
-    "media_id": "bstxrbyaqv0o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6272067/fc-barcelona-legt-miljoenen-neer-voor-braziliaans-toptalent-vitor-roque.html",
     "open_new_window": false,
     "partner": null
   }
