@@ -1,58 +1,12 @@
 [
   {
-    "id": 6273742,
-    "slug": "beelden-vanuit-iss-tonen-omvang-griekse-bosbranden",
-    "type": "video",
-    "title": "Beelden vanuit ISS tonen omvang Griekse bosbranden",
-    "subtitle": "Video",
-    "published_at": "2023-07-24T19:06:48+02:00",
-    "updated_at": "2023-07-24T19:06:49+02:00",
-    "media_id": "fl1xyrraxdvi",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6273742/beelden-vanuit-iss-tonen-omvang-griekse-bosbranden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273713,
-    "slug": "politie-komt-per-toeval-man-op-het-spoor-die-voor-vier-ton-mensen-oplichtte",
-    "type": "article",
-    "title": "Politie komt per toeval man op het spoor die voor vier ton mensen oplichtte",
-    "subtitle": null,
-    "published_at": "2023-07-24T19:06:17+02:00",
-    "updated_at": "2023-07-24T19:06:19+02:00",
-    "media_id": "0y0xreqakmbw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6273713/politie-komt-per-toeval-man-op-het-spoor-die-voor-vier-ton-mensen-oplichtte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6273738,
     "slug": "engels-voetbalicoon-en-million-pound-man-trevor-francis-69-overleden",
     "type": "article",
     "title": "Engels voetbalicoon en 'million pound man' Trevor Francis (69) overleden",
     "subtitle": null,
     "published_at": "2023-07-24T19:00:46+02:00",
-    "updated_at": "2023-07-24T19:07:12+02:00",
+    "updated_at": "2023-07-24T19:00:47+02:00",
     "media_id": "ah2xjp0aisr1",
     "duration": null,
     "canonical_section": {
@@ -75,7 +29,7 @@
     "title": "DENK-fractievoorzitter Farid Azarkan stapt uit landelijke politiek",
     "subtitle": null,
     "published_at": "2023-07-24T18:59:20+02:00",
-    "updated_at": "2023-07-24T19:05:23+02:00",
+    "updated_at": "2023-07-24T19:00:06+02:00",
     "media_id": "v66xlkza1a1u",
     "duration": null,
     "canonical_section": {
@@ -190,7 +144,7 @@
     "title": "Van Vleuten ziet ploeggenoot Lippert winnen in verraderlijke finale van Tour-rit",
     "subtitle": null,
     "published_at": "2023-07-24T17:44:43+02:00",
-    "updated_at": "2023-07-24T19:10:48+02:00",
+    "updated_at": "2023-07-24T18:32:32+02:00",
     "media_id": "iytx49dalaxo",
     "duration": null,
     "canonical_section": {
@@ -456,6 +410,52 @@
       "partner": null
     },
     "url": "/videos/6273709/ravage-nadat-vliegtuigje-op-dak-van-amerikaanse-woning-crasht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273657,
+    "slug": "israelisch-parlement-stemt-in-met-omstreden-wet-die-macht-rechters-beperkt",
+    "type": "article",
+    "title": "Israëlisch parlement stemt in met omstreden wet die macht rechters beperkt",
+    "subtitle": null,
+    "published_at": "2023-07-24T14:53:17+02:00",
+    "updated_at": "2023-07-24T18:29:16+02:00",
+    "media_id": "8w0xkx2amnpa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6273657/israelisch-parlement-stemt-in-met-omstreden-wet-die-macht-rechters-beperkt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273705,
+    "slug": "journalist-en-gezicht-van-bbc-news-george-alagiah-67-overleden",
+    "type": "article",
+    "title": "Journalist en gezicht van BBC News George Alagiah (67) overleden",
+    "subtitle": null,
+    "published_at": "2023-07-24T14:44:10+02:00",
+    "updated_at": "2023-07-24T14:44:12+02:00",
+    "media_id": "edrxmj6arbrw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6273705/journalist-en-gezicht-van-bbc-news-george-alagiah-67-overleden.html",
     "open_new_window": false,
     "partner": null
   }
