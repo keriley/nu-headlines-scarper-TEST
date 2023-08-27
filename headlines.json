@@ -1,5 +1,28 @@
 [
   {
+    "id": 6278354,
+    "slug": "slot-vindt-dit-feyenoord-deels-beter-dan-kampioensploeg-er-is-meer-concurrentie",
+    "type": "article",
+    "title": "Slot vindt dit Feyenoord deels beter dan kampioensploeg: 'Er is meer concurrentie'",
+    "subtitle": null,
+    "published_at": "2023-08-27T20:52:20+02:00",
+    "updated_at": "2023-08-27T20:52:21+02:00",
+    "media_id": "i2bxv9zaxwq8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6278354/slot-vindt-dit-feyenoord-deels-beter-dan-kampioensploeg-er-is-meer-concurrentie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278148,
     "slug": "verlamde-vrouw-kan-praten-en-huwelijksaanzoek-op-tv-dit-is-het-positieve-nieuws",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Tweede vrachtschip vertrekt via tijdelijke vaarroute uit Oekraïne",
     "subtitle": "Overzicht",
     "published_at": "2023-08-27T20:39:10+02:00",
-    "updated_at": "2023-08-27T20:42:34+02:00",
+    "updated_at": "2023-08-27T21:00:05+02:00",
     "media_id": "xq0xm80a8tre",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6278337/hockeyers-weer-europees-kampioen-na-bizarre-slotfase-vol-var-beslissingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278341,
-    "slug": "zeldzame-rode-kaart-van-dijk-bij-zege-liverpool-misser-haaland-deert-city-niet",
-    "type": "article",
-    "title": "Zeldzame rode kaart Van Dijk bij zege Liverpool, misser Haaland deert City niet",
-    "subtitle": null,
-    "published_at": "2023-08-27T17:03:41+02:00",
-    "updated_at": "2023-08-27T19:44:45+02:00",
-    "media_id": "rr2x28paaske",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6278341/zeldzame-rode-kaart-van-dijk-bij-zege-liverpool-misser-haaland-deert-city-niet.html",
     "open_new_window": false,
     "partner": null
   }
