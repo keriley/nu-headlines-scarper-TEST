@@ -1,12 +1,35 @@
 [
   {
+    "id": 6279327,
+    "slug": "derby-willem-ii-nac-definitief-gestaakt-na-bekers-en-vuurwerk-op-het-veld",
+    "type": "article",
+    "title": "Derby Willem II-NAC definitief gestaakt na bekers en vuurwerk op het veld",
+    "subtitle": null,
+    "published_at": "2023-09-03T16:24:27+02:00",
+    "updated_at": "2023-09-03T16:24:29+02:00",
+    "media_id": "kd1xrblaani9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6279327/derby-willem-ii-nac-definitief-gestaakt-na-bekers-en-vuurwerk-op-het-veld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279323,
     "slug": "slot-geniet-weer-van-overtuigend-feyenoord-doe-ik-al-enkele-weken",
     "type": "article",
     "title": "Slot geniet weer van overtuigend Feyenoord: 'Doe ik al enkele weken'",
     "subtitle": null,
     "published_at": "2023-09-03T15:48:23+02:00",
-    "updated_at": "2023-09-03T15:48:25+02:00",
+    "updated_at": "2023-09-03T16:06:53+02:00",
     "media_id": "1b5xgwpau32z",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Verstappen passeert Sainz en is onderweg naar recordreeks op Monza",
     "subtitle": "Liveblog",
     "published_at": "2023-09-03T14:13:01+02:00",
-    "updated_at": "2023-09-03T15:44:55+02:00",
+    "updated_at": "2023-09-03T16:15:52+02:00",
     "media_id": "71cxv5aatszh",
     "duration": null,
     "canonical_section": {
@@ -190,8 +213,8 @@
     "title": "Rusland werft volgens de Britten militairen in Armenië en Kazachstan",
     "subtitle": null,
     "published_at": "2023-09-03T13:34:09+02:00",
-    "updated_at": "2023-09-03T14:04:58+02:00",
-    "media_id": "9q5x52yatr2b",
+    "updated_at": "2023-09-03T16:08:35+02:00",
+    "media_id": "tnnx2jva87qm",
     "duration": null,
     "canonical_section": {
       "id": 1778980,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6279285/feyenoord-met-aanwinst-ivanusec-tegen-fc-utrecht-minteh-op-de-bank.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279298,
-    "slug": "slachtoffers-dodelijke-aanrijding-rotterdam-zijn-74-en-79-bestuurder-spoorloos",
-    "type": "article",
-    "title": "Slachtoffers dodelijke aanrijding Rotterdam zijn 74 en 79, bestuurder spoorloos",
-    "subtitle": null,
-    "published_at": "2023-09-03T10:59:49+02:00",
-    "updated_at": "2023-09-03T12:46:20+02:00",
-    "media_id": "tklxy3naqa00",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6279298/slachtoffers-dodelijke-aanrijding-rotterdam-zijn-74-en-79-bestuurder-spoorloos.html",
     "open_new_window": false,
     "partner": null
   }
