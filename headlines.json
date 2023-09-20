@@ -1,12 +1,35 @@
 [
   {
-    "id": 6281610,
-    "slug": "kamer-met-wensenlijstjes-in-de-hand-in-debat-over-prinsjesdag-plannen",
+    "id": 6281679,
+    "slug": "turnlegende-biles-keert-na-periode-met-mentale-problemen-terug-op-wk-niveau",
     "type": "article",
-    "title": "Kamer met wensenlijstjes in de hand in debat over Prinsjesdag-plannen",
+    "title": "Turnlegende Biles keert na periode met mentale problemen terug op WK-niveau",
     "subtitle": null,
+    "published_at": "2023-09-20T10:19:00+02:00",
+    "updated_at": "2023-09-20T10:19:01+02:00",
+    "media_id": "9e6xt5gamb0x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6281679/turnlegende-biles-keert-na-periode-met-mentale-problemen-terug-op-wk-niveau.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281610,
+    "slug": "kamer-met-wensenlijstjes-in-de-hand-in-debat-over-prinsjesdagplannen",
+    "type": "article",
+    "title": "Kamer met wensenlijstjes in de hand in debat over prinsjesdagplannen",
+    "subtitle": "Liveblog",
     "published_at": "2023-09-20T10:17:36+02:00",
-    "updated_at": "2023-09-20T10:17:37+02:00",
+    "updated_at": "2023-09-20T10:25:22+02:00",
     "media_id": "la9xxfca7fg5",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6281610/kamer-met-wensenlijstjes-in-de-hand-in-debat-over-prinsjesdag-plannen.html",
+    "url": "/politiek/6281610/kamer-met-wensenlijstjes-in-de-hand-in-debat-over-prinsjesdagplannen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +420,7 @@
     "title": "'Ik ben tevreden met de kabinetsplannen tegen armoede'",
     "subtitle": "Stelling",
     "published_at": "2023-09-20T07:05:09+02:00",
-    "updated_at": "2023-09-20T07:05:10+02:00",
+    "updated_at": "2023-09-20T10:19:28+02:00",
     "media_id": "32ox4yba3o45",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6281646/on-wil-naar-rechter-stappen-om-verbeteringsrapporten-die-npo-eist.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281639,
-    "slug": "zonder-coalitie-wordt-debat-heel-anders-ze-kunnen-nu-alles-doen",
-    "type": "video",
-    "title": "Zonder coalitie wordt debat heel anders: 'Ze kunnen nu alles doen'",
-    "subtitle": "Explainer",
-    "published_at": "2023-09-20T06:54:14+02:00",
-    "updated_at": "2023-09-20T06:54:15+02:00",
-    "media_id": "od8x0f8ak0nv",
-    "duration": "2:30",
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6281639/zonder-coalitie-wordt-debat-heel-anders-ze-kunnen-nu-alles-doen.html",
     "open_new_window": false,
     "partner": null
   }
