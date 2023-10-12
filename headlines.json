@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284955,
+    "slug": "herman-van-der-zandt-in-zijn-laatste-met-het-oog-op-morgen-hou-van-jullie",
+    "type": "article",
+    "title": "Herman van der Zandt in zijn laatste Met het oog op morgen: 'Hou van jullie'",
+    "subtitle": null,
+    "published_at": "2023-10-12T07:14:46+02:00",
+    "updated_at": "2023-10-12T07:14:47+02:00",
+    "media_id": "zdsxt5ram95t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6284955/herman-van-der-zandt-in-zijn-laatste-met-het-oog-op-morgen-hou-van-jullie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284909,
     "slug": "hoe-ga-jij-om-met-ellendig-nieuws",
     "type": "article",
@@ -254,12 +277,12 @@
   },
   {
     "id": 6284946,
-    "slug": "russische-troepen-vallen-belangrijke-stad-in-oosten-oekraine-aan",
+    "slug": "russische-troepen-vallen-belangrijke-stad-in-oost-oekraine-aan",
     "type": "article",
-    "title": "Russische troepen vallen belangrijke stad in oosten Oekraïne aan",
+    "title": "Russische troepen vallen belangrijke stad in Oost-Oekraïne aan",
     "subtitle": null,
     "published_at": "2023-10-12T00:55:37+02:00",
-    "updated_at": "2023-10-12T00:55:38+02:00",
+    "updated_at": "2023-10-12T07:21:34+02:00",
     "media_id": "f6sxz2qaarv6",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6284946/russische-troepen-vallen-belangrijke-stad-in-oosten-oekraine-aan.html",
+    "url": "/spanningen-oekraine/6284946/russische-troepen-vallen-belangrijke-stad-in-oost-oekraine-aan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6284937/klm-vliegt-toch-niet-naar-tel-aviv-veiligheid-te-groot-vraagteken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284936,
-    "slug": "britse-minister-in-israel-zoekt-dekking-terwijl-luchtalarm-afgaat",
-    "type": "video",
-    "title": "Britse minister in Israël zoekt dekking terwijl luchtalarm afgaat",
-    "subtitle": "Video",
-    "published_at": "2023-10-11T21:12:16+02:00",
-    "updated_at": "2023-10-11T21:12:17+02:00",
-    "media_id": "wyoxf4fa1sgy",
-    "duration": "0:54",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6284936/britse-minister-in-israel-zoekt-dekking-terwijl-luchtalarm-afgaat.html",
     "open_new_window": false,
     "partner": null
   }
