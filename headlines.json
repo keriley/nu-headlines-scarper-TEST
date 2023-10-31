@@ -1,5 +1,28 @@
 [
   {
+    "id": 6287707,
+    "slug": "tanks-israel-bereiken-noorden-gaza-stad-explosie-in-vluchtelingenkamp-net-buiten-stad",
+    "type": "article",
+    "title": "Tanks Israël bereiken noorden Gaza-Stad, explosie in vluchtelingenkamp net buiten stad",
+    "subtitle": null,
+    "published_at": "2023-10-31T17:19:41+01:00",
+    "updated_at": "2023-10-31T17:19:42+01:00",
+    "media_id": "bjoxasear9s1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Gazaconflict",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6287707/tanks-israel-bereiken-noorden-gaza-stad-explosie-in-vluchtelingenkamp-net-buiten-stad.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287705,
     "slug": "britt-dekker-maakt-paardenboekenserie-voor-kinderen",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Streamingdiensten moeten 5 procent van omzet in Nederlandse content steken",
     "subtitle": null,
     "published_at": "2023-10-31T15:20:13+01:00",
-    "updated_at": "2023-10-31T16:23:11+01:00",
+    "updated_at": "2023-10-31T16:47:43+01:00",
     "media_id": "u6nxh08a963c",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Real Madrid verlengt aflopend contract van uitblinker Vinícius",
     "subtitle": null,
     "published_at": "2023-10-31T15:15:31+01:00",
-    "updated_at": "2023-10-31T15:18:21+01:00",
+    "updated_at": "2023-10-31T16:53:36+01:00",
     "media_id": "2qjx9q1a3put",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6287668/onrust-in-rusland-vanwege-gazaconflict-poetin-wijst-naar-het-westen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287636,
-    "slug": "neef-quincy-promes-bereid-bekennende-verklaring-af-te-leggen-over-drugshandel",
-    "type": "article",
-    "title": "Neef Quincy Promes bereid bekennende verklaring af te leggen over drugshandel",
-    "subtitle": null,
-    "published_at": "2023-10-31T12:08:49+01:00",
-    "updated_at": "2023-10-31T12:08:50+01:00",
-    "media_id": "buoxhtea7ktn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6287636/neef-quincy-promes-bereid-bekennende-verklaring-af-te-leggen-over-drugshandel.html",
     "open_new_window": false,
     "partner": null
   }
