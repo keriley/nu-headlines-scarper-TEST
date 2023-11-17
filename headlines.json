@@ -1,12 +1,58 @@
 [
   {
-    "id": 6290205,
-    "slug": "kroes-niet-eerder-naar-ajax-az-heeft-stekker-uit-gesprekken-getrokken",
+    "id": 6290207,
+    "slug": "albert-heijn-en-jumbo-stoppen-met-gebruik-van-naam-crompouce",
     "type": "article",
-    "title": "Kroes niet eerder naar Ajax: 'AZ heeft stekker uit gesprekken getrokken'",
+    "title": "Albert Heijn en Jumbo stoppen met gebruik van naam 'crompouce'",
+    "subtitle": null,
+    "published_at": "2023-11-17T19:00:31+01:00",
+    "updated_at": "2023-11-17T19:09:57+01:00",
+    "media_id": "bc6x5w2av5nj",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6290207/albert-heijn-en-jumbo-stoppen-met-gebruik-van-naam-crompouce.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290206,
+    "slug": "vermiste-urker-kotter-na-meer-dan-drie-weken-gevonden-voor-kust-van-afrika",
+    "type": "article",
+    "title": "Vermiste Urker kotter na meer dan drie weken gevonden voor kust van Afrika",
+    "subtitle": null,
+    "published_at": "2023-11-17T18:36:56+01:00",
+    "updated_at": "2023-11-17T18:36:57+01:00",
+    "media_id": "2g2xzo8av9lu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6290206/vermiste-urker-kotter-na-meer-dan-drie-weken-gevonden-voor-kust-van-afrika.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290205,
+    "slug": "bestuurder-kroes-niet-eerder-naar-ajax-az-heeft-stekker-uit-gesprek-getrokken",
+    "type": "article",
+    "title": "Bestuurder Kroes niet eerder naar Ajax: 'AZ heeft stekker uit gesprek getrokken'",
     "subtitle": null,
     "published_at": "2023-11-17T18:18:45+01:00",
-    "updated_at": "2023-11-17T18:18:50+01:00",
+    "updated_at": "2023-11-17T19:05:53+01:00",
     "media_id": "j7vx300ab3xq",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6290205/kroes-niet-eerder-naar-ajax-az-heeft-stekker-uit-gesprekken-getrokken.html",
+    "url": "/voetbal/6290205/bestuurder-kroes-niet-eerder-naar-ajax-az-heeft-stekker-uit-gesprek-getrokken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +144,7 @@
     "title": "Spaanse bondspreses Rubiales definitief drie jaar geschorst na omstreden kus",
     "subtitle": null,
     "published_at": "2023-11-17T17:47:44+01:00",
-    "updated_at": "2023-11-17T17:57:06+01:00",
+    "updated_at": "2023-11-17T18:41:18+01:00",
     "media_id": "yovxnajadjdn",
     "duration": null,
     "canonical_section": {
@@ -167,7 +213,7 @@
     "title": "Lonen voor politiemedewerkers stijgen volgend jaar met 9,5 procent",
     "subtitle": null,
     "published_at": "2023-11-17T17:42:12+01:00",
-    "updated_at": "2023-11-17T17:47:36+01:00",
+    "updated_at": "2023-11-17T19:06:12+01:00",
     "media_id": "m23xhtqacawq",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Oekraïne meldt dat meer troepen de Dnipro oversteken en successen boeken",
     "subtitle": null,
     "published_at": "2023-11-17T17:09:04+01:00",
-    "updated_at": "2023-11-17T18:04:12+01:00",
+    "updated_at": "2023-11-17T18:53:29+01:00",
     "media_id": "p0lxvjjae99s",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6290173/koeman-over-xavi-simons-blij-dat-we-hem-binnen-ons-elftal-hebben.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290170,
-    "slug": "nuis-wint-in-peking-ondanks-verdwenen-transponder-ik-raakte-in-de-stress",
-    "type": "article",
-    "title": "Nuis wint in Peking ondanks verdwenen transponder: 'Ik raakte in de stress'",
-    "subtitle": null,
-    "published_at": "2023-11-17T15:47:26+01:00",
-    "updated_at": "2023-11-17T17:34:58+01:00",
-    "media_id": "rghx00iafo6a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6290170/nuis-wint-in-peking-ondanks-verdwenen-transponder-ik-raakte-in-de-stress.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290166,
-    "slug": "verstappen-blij-dat-hij-ondanks-chaos-en-glad-circuit-genoeg-rondes-kon-rijden",
-    "type": "article",
-    "title": "Verstappen blij dat hij ondanks chaos en glad circuit genoeg rondes kon rijden",
-    "subtitle": null,
-    "published_at": "2023-11-17T15:37:12+01:00",
-    "updated_at": "2023-11-17T16:16:11+01:00",
-    "media_id": "xkexhh7aypgq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6290166/verstappen-blij-dat-hij-ondanks-chaos-en-glad-circuit-genoeg-rondes-kon-rijden.html",
     "open_new_window": false,
     "partner": null
   }
