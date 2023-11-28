@@ -1,12 +1,35 @@
 [
   {
+    "id": 6291647,
+    "slug": "man-in-marokko-opgepakt-wegens-tientallen-bommeldingen-bij-belgische-scholen",
+    "type": "article",
+    "title": "Man in Marokko opgepakt wegens tientallen bommeldingen bij Belgische scholen",
+    "subtitle": null,
+    "published_at": "2023-11-28T11:24:47+01:00",
+    "updated_at": "2023-11-28T11:26:03+01:00",
+    "media_id": "p73x6yna1c0w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6291647/man-in-marokko-opgepakt-wegens-tientallen-bommeldingen-bij-belgische-scholen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291648,
     "slug": "ronaldo-heeft-direct-spijt-van-schwalbe-en-laat-penalty-terugdraaien",
     "type": "video",
     "title": "Ronaldo heeft direct spijt van schwalbe en laat penalty terugdraaien",
     "subtitle": "Video",
     "published_at": "2023-11-28T11:17:52+01:00",
-    "updated_at": "2023-11-28T11:17:53+01:00",
+    "updated_at": "2023-11-28T11:25:33+01:00",
     "media_id": "chqxyu2ap3g4",
     "duration": "1:03",
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Herstelde PSV'ers Lang, Obispo en Mauro Júnior reizen ook mee naar Sevilla",
     "subtitle": null,
     "published_at": "2023-11-28T10:18:37+01:00",
-    "updated_at": "2023-11-28T10:18:39+01:00",
+    "updated_at": "2023-11-28T11:18:38+01:00",
     "media_id": "py3xznaahrjk",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/weerbericht/6291609/verkeer-moet-oppassen-voor-gladde-ochtendspits-daarna-zonnige-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291608,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-11-28T05:06:20+01:00",
-    "updated_at": "2023-11-28T05:06:21+01:00",
-    "media_id": "xdtxc8kaj8rf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6291608/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
