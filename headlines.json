@@ -1,5 +1,28 @@
 [
   {
+    "id": 6292114,
+    "slug": "gordon-in-goed-overleg-niet-langer-onder-contract-bij-talpa",
+    "type": "article",
+    "title": "Gordon in 'goed overleg' niet langer onder contract bij Talpa",
+    "subtitle": null,
+    "published_at": "2023-12-01T07:18:04+01:00",
+    "updated_at": "2023-12-01T07:18:05+01:00",
+    "media_id": "kkvxcyua8p2o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6292114/gordon-in-goed-overleg-niet-langer-onder-contract-bij-talpa.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292040,
     "slug": "wat-wil-je-weten-over-nunl-vraag-het-onze-hoofdredactie",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Staakt-het-vuren tussen Israël en Hamas na week voorbij, oorlog hervat",
     "subtitle": null,
     "published_at": "2023-12-01T06:17:36+01:00",
-    "updated_at": "2023-12-01T07:03:39+01:00",
+    "updated_at": "2023-12-01T07:25:14+01:00",
     "media_id": "8kpx6kwaamt8",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Deze clubs zijn (net als PSV en Feyenoord) zeker van Europese overwintering",
     "subtitle": null,
     "published_at": "2023-12-01T05:06:23+01:00",
-    "updated_at": "2023-12-01T07:15:23+01:00",
+    "updated_at": "2023-12-01T07:22:07+01:00",
     "media_id": "3f6xyisall3k",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6292099/ajax-verliest-spektakelstuk-tegen-marseille-en-is-uitgeschakeld-in-europa-league.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292098,
-    "slug": "europees-duel-in-helsinki-stilgelegd-na-bekogelen-keeper-met-sneeuwballen",
-    "type": "article",
-    "title": "Europees duel in Helsinki stilgelegd na bekogelen keeper met sneeuwballen",
-    "subtitle": null,
-    "published_at": "2023-11-30T22:29:36+01:00",
-    "updated_at": "2023-11-30T22:40:02+01:00",
-    "media_id": "p9jxurga7fhw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6292098/europees-duel-in-helsinki-stilgelegd-na-bekogelen-keeper-met-sneeuwballen.html",
     "open_new_window": false,
     "partner": null
   }
