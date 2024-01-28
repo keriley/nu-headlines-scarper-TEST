@@ -1,5 +1,28 @@
 [
   {
+    "id": 6299392,
+    "slug": "ideaal-weer-om-erop-uit-te-gaan-hele-dag-droog-en-zonnig",
+    "type": "article",
+    "title": "Ideaal weer om erop uit te gaan: hele dag droog en zonnig",
+    "subtitle": "Weerbericht",
+    "published_at": "2024-01-28T06:12:28+01:00",
+    "updated_at": "2024-01-28T06:12:29+01:00",
+    "media_id": "ehuxpzxas4ot",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6299392/ideaal-weer-om-erop-uit-te-gaan-hele-dag-droog-en-zonnig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299237,
     "slug": "zo-ziet-een-vogel-of-bij-de-wereld",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6299379/takagi-klopt-rijpma-de-jong-en-beune-op-1500-meter-kok-vierde-op-500-meter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299378,
-    "slug": "100000-mensen-demonstreren-in-dusseldorf-tegen-extreemrechtse-afd",
-    "type": "article",
-    "title": "100.000 mensen demonstreren in Düsseldorf tegen extreemrechtse AfD",
-    "subtitle": null,
-    "published_at": "2024-01-27T21:11:30+01:00",
-    "updated_at": "2024-01-27T21:29:13+01:00",
-    "media_id": "hu5x79oa3ntt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6299378/100000-mensen-demonstreren-in-dusseldorf-tegen-extreemrechtse-afd.html",
     "open_new_window": false,
     "partner": null
   }
